@@ -37,8 +37,8 @@
 
     <footer>
         <small>
-            This project is maintained by <a href="https://raniesantos.netlify.com">Ranie Santos</a>.
-            View the <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+            This project is maintained by Patrick Barranger.
+            View the <a href="https://github.com/pbarranger/artisan-static-website">GitHub repo</a>.
         </small>
     </footer>
 

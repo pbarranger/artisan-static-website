@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Patrick Barranger's Data Science Projects</h1>
+    <h1>Welcome to Patrick's Data Science Projects</h1>
 
     <p>Over the course of my career I have worked on some fun data mining, field experiments, machine learning, and other programming challenges. I use this site to host my publicly shareable projects.</p>
 
