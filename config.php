@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Patrick Barranger\'s Data Science Projects ',
+        'description' => 'Data Science blog of Patrick Barranger.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Patrick Barranger',
+        // 'twitter' => 'johndoe',
+        'github' => 'pbarranger',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
