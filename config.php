@@ -17,7 +17,7 @@ return [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
         'cloudinary' => 'artisanstatic',
-        'jumprock' => 'artisanstatic',
+        'jumprock' => 'contactpatrickb',
     ],
     'collections' => [
         'posts' => [
