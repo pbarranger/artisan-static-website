@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://patrickbarranger.com',
     'site' => [
         'title' => 'Patrick Barranger\'s Data Science Projects ',
         'description' => 'Data Science blog of Patrick Barranger.',
@@ -16,7 +16,7 @@ return [
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
+        'cloudinary' => 'patrickbarranger-com',
         'jumprock' => 'contactpatrickb',
     ],
     'collections' => [
