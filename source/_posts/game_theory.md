@@ -3,7 +3,7 @@ title: 'Object Oriented Programming: Game Theory Simulation'
 date: 2018-03-15
 tags:
   - python
-image: airplane_seat.jpg
+image: prisoners_dilemma.jpg
 comments: false
 ---
 
